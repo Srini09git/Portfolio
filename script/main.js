@@ -8,7 +8,7 @@ menu.onclick = () => {
 
 /* Typing animation*/
 var typed = new Typed(".typing", {
-  strings: ["", "FrontEnd Developer", "Web Desiger", "Graphic Desiger"],
+  strings: ["", "FrontEnd Developer", "Web Desiger", "Graphic Desiger", "JAVA"],
   typeSpeed: 100,
   backSpeed: 60,
   loop: true
